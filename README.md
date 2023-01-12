@@ -13,7 +13,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/fernandolapaz/stats-preview)
-- Live Site URL: [Add live site URL here](https://fernandolapaz.github.io/stats-preview)
+- Live Site URL: [GitHub Page](https://fernandolapaz.github.io/stats-preview)
 
 ### Built with
 
