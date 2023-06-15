@@ -102,7 +102,7 @@ img {
     margin-bottom: 1.7rem;
 }
 
-.stats-container {
+.stats-list {
     display: grid;
     gap: 2rem;
 }
@@ -124,6 +124,7 @@ img {
     font-size: 0.83rem;
     font-weight: normal;
     color: var(--clr-neutral-3);
+    order: 1;
 }
 
 /* Desktop */
@@ -139,7 +140,7 @@ img {
 
     .info {
         align-content: space-around;
-        padding: 4.2rem 16.5% 3.75rem 4.5rem;
+        padding: 4.2rem 18% 3.75rem 4.5rem;
         text-align: left;
     }
 
@@ -152,12 +153,12 @@ img {
         margin-bottom: 3rem;
     }
 
-    .stats-container {
+    .stats-list {
         display: flex;
         flex-wrap: wrap;
         justify-content: space-between;
         gap: 0;
-        padding-right: 2.5rem;
+        padding-right: 2rem;
     }
 }
 
