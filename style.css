@@ -51,6 +51,13 @@ body {
     padding: 1.5rem;
 }
 
+.sr-only {
+    position: absolute;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+}
+
 /* Main (card) */
 .card {
     display: grid;
